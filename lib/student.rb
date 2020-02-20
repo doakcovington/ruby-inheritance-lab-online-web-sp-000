@@ -1,3 +1,5 @@
-class Student 
+#inherit from User
+
+class Student
 
 end
