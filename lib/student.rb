@@ -1,5 +1,5 @@
 #inherit from User
 
-class Student
+class Student < User
 
 end
