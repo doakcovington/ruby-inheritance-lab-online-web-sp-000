@@ -1,4 +1,4 @@
-#SUPER class 
+#SUPER class
 
 class User
 
